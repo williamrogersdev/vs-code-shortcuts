@@ -1,4 +1,28 @@
-# vs-code-shortcuts
+VS- Code ShortCuts Mac
+
+Selecting the entire line- 
+By defualt the entire line will be selected if nothing is highlighted
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# vs-code-shortcuts windows
 
 1.
 Command Palette - Ctrl + P
